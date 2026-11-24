@@ -1,8 +1,8 @@
-version: 0.1.24
+version: 0.1.25
 files:
-  - url: Pantau-Toko-Setup-0.1.24.exe
-    sha512: Srcus+QH4dfvSj1INGzPD6f8VO4GcyeO6kBqMLS62KDJDKS/jWp7bhXGbrEwkv9a+iPqCjLDhYc09stNaxUjRA==
-    size: 78177108
-path: Pantau-Toko-Setup-0.1.24.exe
-sha512: Srcus+QH4dfvSj1INGzPD6f8VO4GcyeO6kBqMLS62KDJDKS/jWp7bhXGbrEwkv9a+iPqCjLDhYc09stNaxUjRA==
-releaseDate: '2026-11-23T12:46:54.619Z'
+  - url: Pantau-Toko-Setup-0.1.25.exe
+    sha512: Qk4nW6grPY3NEYbCmunufqLxYkmoTSevJciRTcruKvdXWncfTWcV/rY3od9ElhFpPrDQt+f+fISY/+MMM7F5mA==
+    size: 78177892
+path: Pantau-Toko-Setup-0.1.25.exe
+sha512: Qk4nW6grPY3NEYbCmunufqLxYkmoTSevJciRTcruKvdXWncfTWcV/rY3od9ElhFpPrDQt+f+fISY/+MMM7F5mA==
+releaseDate: '2026-11-24T04:40:48.719Z'
