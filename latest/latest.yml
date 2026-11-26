@@ -1,8 +1,8 @@
-version: 0.1.30
+version: 0.1.31
 files:
-  - url: Pantau-Toko-Setup-0.1.30.exe
-    sha512: 2O61diGe5cM4iXtNIQVEZ9VaEcXv1ABgDgYTs4G0eUEmZEQ4bJ+72hSUnl6/0qo123d2WlP7XTo55dkEmU/u+w==
-    size: 78182372
-path: Pantau-Toko-Setup-0.1.30.exe
-sha512: 2O61diGe5cM4iXtNIQVEZ9VaEcXv1ABgDgYTs4G0eUEmZEQ4bJ+72hSUnl6/0qo123d2WlP7XTo55dkEmU/u+w==
-releaseDate: '2026-11-25T12:32:42.836Z'
+  - url: Pantau-Toko-Setup-0.1.31.exe
+    sha512: k2EtA3Qqb7hvsZ0gjID90MliNuyKsLr5ErAsi5aSmMnhG4jrByoEHEyEUN0TiPdfkw144kqa2cbxqbDOVrrb7A==
+    size: 78183207
+path: Pantau-Toko-Setup-0.1.31.exe
+sha512: k2EtA3Qqb7hvsZ0gjID90MliNuyKsLr5ErAsi5aSmMnhG4jrByoEHEyEUN0TiPdfkw144kqa2cbxqbDOVrrb7A==
+releaseDate: '2026-11-26T04:55:51.262Z'
